@@ -1,0 +1,9 @@
+*********************************
+*Created by Isaac Friedman	*
+*June 23, 2015		 	*
+*6 Tammuz 5775		 	*
+*A collection of awk scripts	*
+********************************* 
+
+23/6/15
+First script. Formats the /etc/passwd file more readably.
